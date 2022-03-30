@@ -25,11 +25,11 @@ body {
   content: "\d7";
   cursor: pointer;
 }
-
 .swiper-container {
   width: 158px;
   height: 530px;
   border: 1px solid #cbcbcb;
+  overflow: hidden;
 }
 .swiper-slide {
   width: 160px;
