@@ -56,7 +56,7 @@ img {
 }
 p {
   position: absolute;
-  font-size: 12px;
+  font-size: 14px;
 }
 p:nth-of-type(1) {
   top: 300px;
@@ -64,6 +64,7 @@ p:nth-of-type(1) {
 p:nth-of-type(2) {
   top: 400px;
   font-weight: 600;
+  font-size: 20px;
 }
 .btn {
   position: absolute;
