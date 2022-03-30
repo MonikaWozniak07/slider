@@ -1,6 +1,5 @@
 const swiper = new Swiper('.swiper-container', {
   centeredSlides: true,
-  // speed:1,
   autoplay: {
     delay: 2500,
     disableOnInteraction: false,
